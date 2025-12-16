@@ -13,9 +13,16 @@
 <br><br>
 - Any data sets necessary for particular notebooks are stored in the `data/` directory within a folder whose name is the same as the notebook to which it belongs (i.e. the data for the notebook at `notebooks/sampling.ipynb` can be found at `data/sampling/`).
   - **NOTE**: Not all data has been uploaded to the repository to conserve space. For notebooks where the necessary dataset(s) has not been uploaded, the corresponding folder within the `data/` directory contains a Markdown (`.md`) file where a link to the dataset(s) can be found for downloading; simply download the dataset(s) to the directory where the Markdown file is located, and everything will work for you.
-
+<br><br>
+- The notebooks in this repository use many GPU accelerated libraries and tools, such as RAPIDS (specifically `cudf` instead of using `pandas`) and `jax.numpy` (imported as `jnp`)
+- I have included, for the most part, examples of both non-GPU accelerated code and GPU accelerated code
+- If you are going to use GPU acceleration you will need to run this to get jax to work:
+	- ```pip install --upgrade "jax[cuda13-local]" -f https://storage.googleapis.com/jax-releases/jax_cuda_releases.html```
+		- **<u>NOTE</u>**: the install script above is for Cuda version 13, if you have another version of Cuda, just change the number in `cuda13-local` to your specific version 
 ---
 ## &nbsp;&nbsp;<center>**:computer: <u>PURPOSE</u>**: This repository is mostly for my own reference and memorization, but it is also available for anyone else to either learn Python and the Data Science tools of Python or just as a reference/cookbook to look back to when something isn't coming to mind immediately--or whatever else you want to use it for: I don't care :trollface: 
+
+---
 
 ---
 ##  <center>:book: **<u>Table of Contents</u>** :book: </center>
