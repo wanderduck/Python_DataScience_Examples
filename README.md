@@ -1,4 +1,4 @@
-# <center> :duck: **<u>Python Data Science Examples</u>**:duck:</center>
+# <center> :duck: **<u>Python Data Science Examples</u>** :duck: </center>
 <br><br>
 ![Wanderduck at Desk](wanderduck_office_coloured_withLogos.png#center)
 
