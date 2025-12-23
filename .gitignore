@@ -54,7 +54,8 @@ CLAUDE.md
 #Unused
 sample.ipynb
 
-
+# Data
+data/
 
 /.idea
 notebooks/cufile.log
