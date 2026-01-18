@@ -1,4 +1,4 @@
-# <center> :duck: **<u>Python Data Science Examples</u>** :duck: </center>
+# <center> :duck: **<u>Wanderduck's Python Data Science Examples</u>** :duck: </center>
 <br><br>
 ![Wanderduck at Desk](wanderduck_office_coloured_withLogos.png#center)
 
@@ -27,18 +27,5 @@
 ---
 ##  <center>:book: **<u>Table of Contents</u>** :book: </center>
 
-- **1. <u>PYTHON & PANDAS FUNDAMENTALS</u>**
-	- 1.a The Basics
-     - 1.b List/Dictionary Comprehensions and Generators
-	- 1.c
-	- 1.d
-	- 1.e
-	- 1.f
-	- 1.g
--   **2. <u></u>**
-	- 2.a
-	- 2.b
-	- 2.c
-	- 2.d
-	- 2.e   
-- **3. <u></u>**
+>>> Because this is a newborn still wet with placenta punch and whatnot, I'm just going to list what notebooks are currently pushed to repository<br>
+---> I push these as I create/update them, so some may still be
